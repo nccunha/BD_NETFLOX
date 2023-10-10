@@ -1,6 +1,8 @@
 # NETFLOX
 
-The company NETFLOX wishes to have a system that allows them to manage their online business, which essentially involves renting various types of items (series, movies, and documentaries) for online viewing and managing their inventory of available rental items. Therefore, it is necessary to build a database application that allows customers, for example, to search for and rent available items and allows administrators, who are manually added to the database, to perform typical system management tasks (e.g., adding a new item or viewing statistics).
+**Databases course project**.
+
+The company NETFLOX (fictitious) wishes to have a system that allows them to manage their online business, which essentially involves renting various types of items (series, movies, and documentaries) for online viewing and managing their inventory of available rental items. Therefore, it is necessary to build a database application that allows customers, for example, to search for and rent available items and allows administrators, who are manually added to the database, to perform typical system management tasks (e.g., adding a new item or viewing statistics).
 
 ## Implemented Functions:
 For better program manipulation, we have implemented various functions organized into different categories, namely:
