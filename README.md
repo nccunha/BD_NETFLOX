@@ -50,7 +50,18 @@ This function is used for verifying all the credentials of both administrators a
 
 This function is used to display the total number of customers, the total number of items, the total number of items by type, and the total number of items rented.
 
+## Diagrams
 
+
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Diagrams/Entity%20Relationship%20Diagram.png" alt="Entity-Relationship Diagram" width="500" height="450">
+    <img src="Diagrams/Physical%20data%20model%20diagram%20.png" alt="Physical data model diagram" width="500" height="450">
+</div>
+
+These two images represent essential diagrams for the project:
+
+The first image is an Entity-Relationship Diagram and the second image is a Physical Diagram.
 
 ## Requirements:
 
